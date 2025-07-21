@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Guides вкладка 1",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Группа 1",
             "pages": [
               "index",
               "quickstart",
@@ -22,14 +22,14 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Customization гр 2",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Writing content гр 3",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -38,7 +38,7 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "AI tools гр 4",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "API reference вкладка 2",
         "groups": [
           {
             "group": "API documentation",
