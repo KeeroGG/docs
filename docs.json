@@ -11,6 +11,16 @@
   "navigation": {
     "tabs": [
       {
+         "tab": "myTab",
+        "groups": [
+          {
+            "group": "myGroup",
+            "pages": [
+              "myDocs/textDoc",
+            ]
+          },
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
